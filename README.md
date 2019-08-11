@@ -12,6 +12,7 @@ docker build -t 'yourusername/firefox52' .
 ```
 
 ## Run ##
+In order for this to run on my Fedora 30 Laptop I had to run `xterm +` in another window.  This is probably a security concern so do this at your own risk.
 
 If you don't want any persistency, and you want to use the automated build from
 docker hub:
